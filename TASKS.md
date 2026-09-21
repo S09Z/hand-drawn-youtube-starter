@@ -8,7 +8,7 @@ Status keys: `[ ]` not started, `[~]` active, `[x]` complete, `[!]` blocked.
 - [x] LOOP-02 — Complete `docs/CHANNEL_BIBLE.md`
 - [x] LOOP-03 — Complete `docs/VISUAL_STYLE.md`
 - [x] LOOP-04 — Validate all production templates with a dry run
-- [ ] LOOP-05 — Select Episode 001 topic and create its research pack
+- [x] LOOP-05 — Select Episode 001 topic and create its research pack
 - [ ] LOOP-06 — Create and approve Episode 001 script
 - [ ] LOOP-07 — Create storyboard and drawing list; check asset reuse
 - [ ] LOOP-08 — Complete Procreate and CapCut production manually
