@@ -4,6 +4,7 @@
 
 - Phase: PHASE-01 — Foundation + Manual Production MVP
 - Branch: `phase/01-manual-production-mvp`
+- Draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/1
 - Last completed loop: LOOP-02 — Complete Channel Bible
 - Current recommended loop: LOOP-03 — Complete `docs/VISUAL_STYLE.md`
 - Status: READY FOR HUMAN INPUT
@@ -73,7 +74,6 @@ Repository inspection and review pass; any findings are fixed; `TASKS.md` and th
 
 - Channel identity and visual language require human input.
 - Templates, including the new production log and fact-ID convention, have not yet been tested on a real episode.
-- GitHub CLI authentication must be configured before the Phase 1 draft pull request can be opened.
 
 ## Loop history
 

@@ -15,6 +15,7 @@ Research → Script → Storyboard → Drawing List → Procreate → CapCut →
 - Starter repository created.
 - Current phase: `PHASE-01`.
 - Current branch: `phase/01-manual-production-mvp`.
+- Draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/1
 - `LOOP-01 — Repository Foundation Review` is complete.
 - `LOOP-02 — Complete Channel Bible` is complete.
 - Current recommended work: `LOOP-03 — Complete docs/VISUAL_STYLE.md`.
@@ -27,7 +28,6 @@ Research → Script → Storyboard → Drawing List → Procreate → CapCut →
 - Git ignore checks cover secrets, generated video, and common generated audio formats.
 - No generated media, credentials, runtime dependencies, or automation are tracked.
 - The production-log and fact-ID conventions await validation during the template dry run in LOOP-04.
-- GitHub CLI authentication is not currently available; authenticate before opening the Phase 1 draft pull request after all Phase 1 exit criteria pass.
 
 ## Working philosophy
 
