@@ -5,10 +5,36 @@
 - Phase: PHASE-01 — Foundation + Manual Production MVP
 - Branch: `phase/01-manual-production-mvp`
 - Draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/1
-- Last completed loop: LOOP-03 — Complete Visual Style
-- Current recommended loop: LOOP-04 — Validate all production templates with a dry run
-- Status: READY FOR TEMPLATE DRY RUN
-- Blockers: None
+- Last completed loop: LOOP-04 — Production Template Dry Run
+- Current recommended loop: LOOP-05 — Select Episode 001 topic and create its research pack
+- Status: READY FOR HUMAN TOPIC SELECTION
+- Blockers: Episode 001's real topic requires explicit human approval.
+
+## LOOP-04 — Production Template Dry Run
+
+### Goal
+
+Exercise every production template as one connected workflow, expose unclear handoffs or missing fields, and fix only demonstrated template defects before using the system for Episode 001.
+
+### Scope
+
+- Use an explicitly fictional, non-publishable historical scenario under `episodes/DRY-RUN-001/`.
+- Populate every template and verify each artifact supplies the next stage's required inputs.
+- Do not perform web research, create finished artwork, publish content, or choose Episode 001's real topic.
+
+### Definition of Done
+
+Every template has a populated sample, handoffs are traceable, demonstrated template defects are fixed, the dry-run report records results, verification passes, and the loop state is recorded.
+
+### Verification completed
+
+- Ten dry-run artifacts exercise every template and the full manual handoff chain.
+- Research facts F01–F04 map into the script claim table.
+- The 442-word narration fits its 420–460 word target and six storyboard scenes cover every beat.
+- Storyboard visuals map into the drawing list; OBJ-BELL-001 remains stable through the asset and production records.
+- Simulated approvals and unavailable analytics values are explicit rather than blank.
+- No production media, real historical claims, external publishing, dependencies, or automation were introduced.
+- `git diff --check` passes.
 
 ## LOOP-03 — Complete Visual Style
 
@@ -96,7 +122,7 @@ Repository inspection and review pass; any findings are fixed; `TASKS.md` and th
 
 ## Known issues
 
-- Templates, including the production log and fact-ID convention, have not yet passed a dry run or been tested on a real episode.
+- Templates have passed a fictional dry run but have not yet been tested on a real episode.
 - The recurring mascot's final original design will need to be created without copying the approved references.
 
 ## Loop history
@@ -127,3 +153,13 @@ Repository inspection and review pass; any findings are fixed; `TASKS.md` and th
 - Checks: placeholder scan, reference-path validation, required-section review, accessibility and mobile-readability review, scope review, and `git diff --check`.
 - Review: no meaningful findings remain for LOOP-03.
 - Next action: dry-run the production templates with a small fictional sample; do not select Episode 001's real topic.
+
+### LOOP-04 — Production Template Dry Run
+
+- Completed: 2026-09-21
+- Changed: added the fictional DRY-RUN-001 pack and added an explicit approval gate to the storyboard template.
+- Checks: artifact presence, fact-ID coverage, narration word count, storyboard scene count, checklist completion, asset-ID continuity, production-media absence, placeholder scan, and `git diff --check`.
+- Finding fixed: storyboard continuity checks did not include explicit human approval before drawing and production.
+- Decisions: unavailable or simulated values must be written as `N/A` or clearly labeled simulated; they must not be silently left blank or represented as real completion.
+- Review: no meaningful findings remain for LOOP-04.
+- Next action: present candidate topics for explicit human selection before creating Episode 001's real research pack.

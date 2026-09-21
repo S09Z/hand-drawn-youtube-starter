@@ -19,7 +19,8 @@ Research → Script → Storyboard → Drawing List → Procreate → CapCut →
 - `LOOP-01 — Repository Foundation Review` is complete.
 - `LOOP-02 — Complete Channel Bible` is complete.
 - `LOOP-03 — Complete Visual Style` is complete with four approved repository-local references.
-- Current recommended work: `LOOP-04 — Validate all production templates with a dry run`.
+- `LOOP-04 — Production Template Dry Run` is complete using the fictional, non-publishable `DRY-RUN-001` pack.
+- Current recommended work: `LOOP-05 — Select Episode 001 topic and create its research pack`; topic selection requires explicit human approval.
 - Authoritative current loop and state live in `PROGRESS.md`.
 - Episode templates intentionally retain fill-in placeholders until they are used.
 
@@ -28,7 +29,7 @@ Research → Script → Storyboard → Drawing List → Procreate → CapCut →
 - Required foundation files and episode/template mappings pass.
 - Git ignore checks cover secrets, generated video, and common generated audio formats.
 - No production media, credentials, runtime dependencies, or automation are tracked; four approved visual-reference images are intentionally versioned under `docs/references/`.
-- The production-log and fact-ID conventions await validation during the template dry run in LOOP-04.
+- The production-log and fact-ID conventions passed the fictional dry run; real-episode validation remains pending.
 
 ## Working philosophy
 
