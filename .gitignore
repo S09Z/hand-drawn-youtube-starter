@@ -1,0 +1,23 @@
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.obsidian/workspace*.json
+node_modules/
+__pycache__/
+.venv/
+*.log
+
+# Large/generated media
+exports/
+renders/
+raw-video/
+*.mp4
+*.mov
+*.wav
+*.psd
+*.procreate
+
+# Keep empty starter folders
+!.gitkeep
