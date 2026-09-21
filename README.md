@@ -4,7 +4,7 @@ A lightweight workspace for producing short hand-drawn storytelling videos with 
 
 ## Workflow
 
-Research → Script → Storyboard → Drawing List → Procreate → CapCut → Publish → Analytics
+Research → Script → Storyboard → Drawing List → Procreate → CapCut → Production Log → Publish → Analytics
 
 AI prepares and checks information. The human owns creative direction, drawing, final editing, approval, and publishing.
 
@@ -16,7 +16,7 @@ AI prepares and checks information. The human owns creative direction, drawing, 
 4. Plan and complete one small loop at a time.
 5. Verify, review, and record each loop before starting another.
 
-The first recommended loop is `LOOP-01 — Repository Foundation Review`.
+The current recommended loop is `LOOP-02 — Complete Channel Bible`.
 
 ## Main folders
 

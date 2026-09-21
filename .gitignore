@@ -16,6 +16,10 @@ raw-video/
 *.mp4
 *.mov
 *.wav
+*.mp3
+*.m4a
+*.aac
+*.aiff
 *.psd
 *.procreate
 

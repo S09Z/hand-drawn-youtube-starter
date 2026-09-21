@@ -14,9 +14,11 @@ What will the viewer know or feel by the end?
 
 ## Verified facts
 
-| Claim | Evidence/source | Confidence | Visual potential |
-|---|---|---|---|
-| | | High/Medium/Low | |
+Assign each factual claim a unique episode-local ID using `F` plus two digits (`F01`, `F02`, ...). Keep the ID stable when the claim is revised.
+
+| Fact ID | Claim | Evidence/source | Confidence | Visual potential |
+|---|---|---|---|---|
+| F01 | | | High/Medium/Low | |
 
 ## Uncertain or disputed claims
 

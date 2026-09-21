@@ -8,6 +8,7 @@ Copy the templates into this folder as the episode advances:
 - `script.md`
 - `storyboard.md`
 - `drawing-list.md`
+- `production-log.md`
 - `publish-checklist.md`
 - `analytics.md`
 

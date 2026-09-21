@@ -46,6 +46,14 @@ Visual intent:
 - [ ] Uncertainty is represented honestly.
 - [ ] No important counterpoint was omitted.
 
+### Claim map
+
+List factual script claims and the matching research fact IDs. Creative or interpretive lines do not need an invented citation.
+
+| Script section/claim | Research fact ID(s) |
+|---|---|
+| | F01 |
+
 ## Human approval
 
 - [ ] Voice/tone approved

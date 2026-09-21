@@ -14,9 +14,17 @@ Research → Script → Storyboard → Drawing List → Procreate → CapCut →
 
 - Starter repository created.
 - Current phase: `PHASE-01`.
-- No implementation loop has been formally completed.
+- `LOOP-01 — Repository Foundation Review` is complete.
+- Current recommended work: `LOOP-02 — Complete docs/CHANNEL_BIBLE.md`.
 - Authoritative current loop and state live in `PROGRESS.md`.
 - Creative fields intentionally contain `TODO` placeholders for the human.
+
+## Latest verification
+
+- Required foundation files and episode/template mappings pass.
+- Git ignore checks cover secrets, generated video, and common generated audio formats.
+- No generated media, credentials, runtime dependencies, or automation are tracked.
+- The production-log and fact-ID conventions await validation during the template dry run in LOOP-04.
 
 ## Working philosophy
 
