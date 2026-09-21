@@ -16,7 +16,8 @@ Research → Script → Storyboard → Drawing List → Procreate → CapCut →
 - Current phase: `PHASE-01`.
 - Current branch: `phase/01-manual-production-mvp`.
 - `LOOP-01 — Repository Foundation Review` is complete.
-- Current recommended work: `LOOP-02 — Complete docs/CHANNEL_BIBLE.md`.
+- `LOOP-02 — Complete Channel Bible` is complete.
+- Current recommended work: `LOOP-03 — Complete docs/VISUAL_STYLE.md`.
 - Authoritative current loop and state live in `PROGRESS.md`.
 - Creative fields intentionally contain `TODO` placeholders for the human.
 

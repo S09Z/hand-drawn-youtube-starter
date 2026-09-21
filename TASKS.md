@@ -5,7 +5,7 @@ Status keys: `[ ]` not started, `[~]` active, `[x]` complete, `[!]` blocked.
 ## PHASE-01 — Foundation + Manual Production MVP
 
 - [x] LOOP-01 — Review and confirm repository foundation
-- [ ] LOOP-02 — Complete `docs/CHANNEL_BIBLE.md`
+- [x] LOOP-02 — Complete `docs/CHANNEL_BIBLE.md`
 - [ ] LOOP-03 — Complete `docs/VISUAL_STYLE.md`
 - [ ] LOOP-04 — Validate all production templates with a dry run
 - [ ] LOOP-05 — Select Episode 001 topic and create its research pack
