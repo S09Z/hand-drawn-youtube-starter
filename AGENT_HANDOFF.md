@@ -14,6 +14,7 @@ Research → Script → Storyboard → Drawing List → Procreate → CapCut →
 
 - Starter repository created.
 - Current phase: `PHASE-01`.
+- Current branch: `phase/01-manual-production-mvp`.
 - `LOOP-01 — Repository Foundation Review` is complete.
 - Current recommended work: `LOOP-02 — Complete docs/CHANNEL_BIBLE.md`.
 - Authoritative current loop and state live in `PROGRESS.md`.
@@ -25,6 +26,7 @@ Research → Script → Storyboard → Drawing List → Procreate → CapCut →
 - Git ignore checks cover secrets, generated video, and common generated audio formats.
 - No generated media, credentials, runtime dependencies, or automation are tracked.
 - The production-log and fact-ID conventions await validation during the template dry run in LOOP-04.
+- GitHub CLI authentication is not currently available; authenticate before opening the Phase 1 draft pull request after all Phase 1 exit criteria pass.
 
 ## Working philosophy
 

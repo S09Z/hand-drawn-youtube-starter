@@ -16,6 +16,7 @@ Research → Script → Storyboard → Drawing List → Procreate → CapCut →
 - Reuse drawings before proposing new assets.
 - Preserve human approval at topic, script, visuals, edit, and publish stages.
 - Add technology only for a measured bottleneck.
+- Isolate each phase on its own `phase/NN-short-description` branch and open a draft pull request after the phase exit criteria pass.
 
 ## Phase 1 — Foundation + Manual Production MVP
 

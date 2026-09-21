@@ -26,6 +26,16 @@ Work on one loop only. Before implementation, state:
 - Definition of Done
 - Explicitly out-of-scope work
 
+## Phase delivery workflow
+
+- Create and use one dedicated branch for each phase before implementing its loops.
+- Name phase branches `phase/NN-short-description`, using the two-digit phase number.
+- Keep all loop commits for that phase on its phase branch.
+- Do not mix work from a later phase into the current phase branch.
+- After all phase loops and the phase exit criteria pass verification, push the branch and open a draft pull request against `main`.
+- Record the draft pull request URL in `PROGRESS.md` and `AGENT_HANDOFF.md`.
+- Do not merge or mark the pull request ready for review without explicit human approval.
+
 ## Implementation rules
 
 - Make the smallest useful change.

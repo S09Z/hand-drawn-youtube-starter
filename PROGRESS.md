@@ -3,6 +3,7 @@
 ## Current state
 
 - Phase: PHASE-01 — Foundation + Manual Production MVP
+- Branch: `phase/01-manual-production-mvp`
 - Last completed loop: LOOP-01 — Repository Foundation Review
 - Current recommended loop: LOOP-02 — Complete `docs/CHANNEL_BIBLE.md`
 - Status: READY FOR HUMAN INPUT
@@ -49,6 +50,7 @@ Repository inspection and review pass; any findings are fixed; `TASKS.md` and th
 
 - Channel identity and visual language require human input.
 - Templates, including the new production log and fact-ID convention, have not yet been tested on a real episode.
+- GitHub CLI authentication must be configured before the Phase 1 draft pull request can be opened.
 
 ## Loop history
 
