@@ -18,15 +18,16 @@ Research → Script → Storyboard → Drawing List → Procreate → CapCut →
 - Draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/1
 - `LOOP-01 — Repository Foundation Review` is complete.
 - `LOOP-02 — Complete Channel Bible` is complete.
-- Current recommended work: `LOOP-03 — Complete docs/VISUAL_STYLE.md`.
+- `LOOP-03 — Complete Visual Style` is complete with four approved repository-local references.
+- Current recommended work: `LOOP-04 — Validate all production templates with a dry run`.
 - Authoritative current loop and state live in `PROGRESS.md`.
-- Creative fields intentionally contain `TODO` placeholders for the human.
+- Episode templates intentionally retain fill-in placeholders until they are used.
 
 ## Latest verification
 
 - Required foundation files and episode/template mappings pass.
 - Git ignore checks cover secrets, generated video, and common generated audio formats.
-- No generated media, credentials, runtime dependencies, or automation are tracked.
+- No production media, credentials, runtime dependencies, or automation are tracked; four approved visual-reference images are intentionally versioned under `docs/references/`.
 - The production-log and fact-ID conventions await validation during the template dry run in LOOP-04.
 
 ## Working philosophy

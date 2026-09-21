@@ -5,10 +5,34 @@
 - Phase: PHASE-01 — Foundation + Manual Production MVP
 - Branch: `phase/01-manual-production-mvp`
 - Draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/1
-- Last completed loop: LOOP-02 — Complete Channel Bible
-- Current recommended loop: LOOP-03 — Complete `docs/VISUAL_STYLE.md`
-- Status: READY FOR HUMAN INPUT
-- Blockers: Visual-style decisions are human-owned and intentionally unresolved.
+- Last completed loop: LOOP-03 — Complete Visual Style
+- Current recommended loop: LOOP-04 — Validate all production templates with a dry run
+- Status: READY FOR TEMPLATE DRY RUN
+- Blockers: None
+
+## LOOP-03 — Complete Visual Style
+
+### Goal
+
+Define a repeatable hand-drawn visual language for historical storytelling in Procreate, grounded in human-approved references and practical production limits.
+
+### Scope
+
+- Record 3–5 visual references with explicit adopt and avoid notes.
+- Define the core look, visual grammar, accessibility rules, and reuse constraints.
+- Do not run the template dry run, choose Episode 001's topic, or start later loops.
+
+### Definition of Done
+
+Every Visual Style field is explicit, 3–5 references are recorded, the rules are drawable and mobile-readable, the human approves the document, verification passes, and the loop state is recorded.
+
+### Verification completed
+
+- Every Visual Style placeholder was replaced with explicitly approved human direction.
+- Four repository-local visual references resolve and include adopt and avoid notes.
+- Core look, mascot grammar, motion, diagrams, text limits, reuse, and accessibility rules are actionable.
+- The palette maintains a muted historical base while reserving bright accents for focus and the mascot.
+- Later-loop artifacts remain untouched.
 
 ## LOOP-02 — Complete Channel Bible
 
@@ -72,8 +96,8 @@ Repository inspection and review pass; any findings are fixed; `TASKS.md` and th
 
 ## Known issues
 
-- Channel identity and visual language require human input.
-- Templates, including the new production log and fact-ID convention, have not yet been tested on a real episode.
+- Templates, including the production log and fact-ID convention, have not yet passed a dry run or been tested on a real episode.
+- The recurring mascot's final original design will need to be created without copying the approved references.
 
 ## Loop history
 
@@ -94,3 +118,12 @@ Repository inspection and review pass; any findings are fixed; `TASKS.md` and th
 - Checks: placeholder scan, document consistency review, scope review, and `git diff --check`.
 - Review: no meaningful findings remain for LOOP-02.
 - Next action: collect the human visual references and production constraints required for `docs/VISUAL_STYLE.md`; do not start the template dry run.
+
+### LOOP-03 — Complete Visual Style
+
+- Completed: 2026-09-21
+- Changed: defined the colored-pencil core look, palette, line hierarchy, mascot system, expression and motion grammar, diagram rules, mobile text limits, and four approved visual references.
+- Decisions: muted historical scenes use one bright accent; the mascot uses purple, warm gold, and lime green; captions are limited to 8 words and 2 lines; diagram labels are normally 1–3 words.
+- Checks: placeholder scan, reference-path validation, required-section review, accessibility and mobile-readability review, scope review, and `git diff --check`.
+- Review: no meaningful findings remain for LOOP-03.
+- Next action: dry-run the production templates with a small fictional sample; do not select Episode 001's real topic.
