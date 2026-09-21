@@ -21,6 +21,7 @@ Research → Script → Storyboard → Drawing List → Procreate → CapCut →
 - `LOOP-03 — Complete Visual Style` is complete with four approved repository-local references.
 - `LOOP-04 — Production Template Dry Run` is complete using the fictional, non-publishable `DRY-RUN-001` pack.
 - Current recommended work: `LOOP-05 — Select Episode 001 topic and create its research pack`; topic selection requires explicit human approval.
+- Create `loop/phase-01-05-episode-research` from the Phase 1 branch before starting LOOP-05; after verification, push it and open a draft pull request targeting `phase/01-manual-production-mvp`.
 - Authoritative current loop and state live in `PROGRESS.md`.
 - Episode templates intentionally retain fill-in placeholders until they are used.
 
@@ -36,6 +37,7 @@ Research → Script → Storyboard → Drawing List → Procreate → CapCut →
 Use Loop Engineering: Inspect → Plan → Implement → Verify → Review → Record → Next Loop.
 
 - One small loop at a time.
+- Beginning with LOOP-05, each loop is isolated on its own branch and draft pull request into the phase branch.
 - Prefer minimal implementation.
 - Verify every change.
 - Do not introduce infrastructure for hypothetical future needs.

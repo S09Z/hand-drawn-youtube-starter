@@ -7,6 +7,7 @@
 - Draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/1
 - Last completed loop: LOOP-04 — Production Template Dry Run
 - Current recommended loop: LOOP-05 — Select Episode 001 topic and create its research pack
+- Next loop branch: `loop/phase-01-05-episode-research`
 - Status: READY FOR HUMAN TOPIC SELECTION
 - Blockers: Episode 001's real topic requires explicit human approval.
 
@@ -119,6 +120,7 @@ Repository inspection and review pass; any findings are fixed; `TASKS.md` and th
 - One folder contains all artifacts for each episode.
 - Asset reuse is checked before new drawings are proposed.
 - Phase 1 remains manual to reveal genuine bottlenecks.
+- Beginning with LOOP-05, every loop uses its own branch and draft pull request targeting the active phase branch. LOOP-01 through LOOP-04 remain in the existing Phase 1 history and will not be rewritten.
 
 ## Known issues
 
