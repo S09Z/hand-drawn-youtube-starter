@@ -3,16 +3,50 @@
 ## Current state
 
 - Phase: PHASE-01 — Foundation + Manual Production MVP
-- Branch: `loop/phase-01-06-episode-script`
+- Branch: `loop/phase-01-07-storyboard-drawing-list`
 - Phase draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/1
 - LOOP-05 draft pull request: Pending creation
-- Last completed loop: LOOP-06 — Episode 001 Script
-- Current recommended loop: LOOP-07 — Create storyboard and drawing list; check asset reuse
-- Loop branch: `loop/phase-01-06-episode-script`
-- Next loop branch: `loop/phase-01-07-storyboard-drawing-list`
-- Status: LOOP-06 COMPLETE — AWAITING STACKED PR CHAIN
-- Blockers: LOOP-05 and LOOP-06 must be merged in order before LOOP-07 begins.
-- Workflow exception: At the human's explicit insistence, LOOP-06 was branched from completed LOOP-05 commit `4b67df1` before LOOP-05 was merged into the phase branch. The eventual PR chain must preserve that dependency.
+- Last completed loop: LOOP-07 — Episode 001 Storyboard and Drawing List
+- Current recommended loop: LOOP-08 — Complete Procreate and CapCut production manually
+- Loop branch: `loop/phase-01-07-storyboard-drawing-list`
+- Next loop branch: `loop/phase-01-08-manual-production`
+- Status: LOOP-07 COMPLETE — AWAITING STACKED PR CHAIN
+- Blockers: LOOP-05, LOOP-06, and LOOP-07 must be merged in order before LOOP-08 begins.
+- Workflow exception: At the human's explicit direction, LOOP-07 continues the stacked branch chain from approved LOOP-06 commit `8388333`. The eventual PR chain must preserve merge order: LOOP-05 → LOOP-06 → LOOP-07.
+
+## LOOP-07 — Episode 001 Storyboard and Drawing List
+
+### Goal
+
+Translate the approved script into a production-ready visual sequence and a bounded drawing list that checks reusable assets before proposing new work.
+
+### Changes and decisions
+
+- `episodes/EP001/storyboard.md` maps the full 4:10 script into 15 timed scenes with visual action, short on-screen text, and transitions.
+- `episodes/EP001/drawing-list.md` records that the production asset folders contain only placeholders; style-reference images are not treated as reusable production art.
+- The drawing scope is capped at 15 new modular assets, with no optional decorative assets approved.
+- Margaret Knight, the mascot, the bag set, the machine, evidence objects, and locations use layered variants instead of separate redraws.
+- The Annan sequence uses a neutral Patent Office visual and “Priority proved” language rather than villain styling or a fictional courtroom.
+- The human approved both the storyboard and drawing list before production.
+
+### Verification completed
+
+- Fifteen storyboard scenes cover every approved script section from 0:00 through 4:10.
+- On-screen labels remain short and mobile-readable; diagrams use compact labels and left-to-right flow.
+- Exactly 15 new assets are proposed, meeting the template production limit.
+- The asset library search found only `.gitkeep` placeholders; no reusable production drawing was overlooked.
+- EP001 contains research, script, storyboard, and drawing list only; no Procreate, CapCut, audio, export, or production-log artifact was created.
+- `git diff --check` passes.
+
+### Known issues
+
+- Actual narration timing must be checked during manual recording and editing.
+- Image licensing and attribution must be confirmed before any source image is used in production.
+- The stacked branch dependency must be resolved in order before beginning LOOP-08.
+
+### Exact next action
+
+Merge LOOP-05, LOOP-06, and LOOP-07 in order, then update the local Phase 1 branch. Create `loop/phase-01-08-manual-production` and begin LOOP-08 only after those merges; do not create production media beforehand.
 
 ## LOOP-06 — Episode 001 Script
 
