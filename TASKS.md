@@ -11,7 +11,7 @@ Status keys: `[ ]` not started, `[~]` active, `[x]` complete, `[!]` blocked.
 - [x] LOOP-05 — Select Episode 001 topic and create its research pack
 - [x] LOOP-06 — Create and approve Episode 001 script
 - [x] LOOP-07 — Create storyboard and drawing list; check asset reuse
-- [ ] LOOP-08 — Complete Procreate and CapCut production manually
+- [~] LOOP-08 — Complete Procreate and CapCut production manually
 - [ ] LOOP-09 — Publish with human approval and capture baseline metrics
 - [ ] LOOP-10 — Retrospective and Phase 1 review
 

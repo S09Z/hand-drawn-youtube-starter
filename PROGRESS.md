@@ -3,16 +3,15 @@
 ## Current state
 
 - Phase: PHASE-01 — Foundation + Manual Production MVP
-- Branch: `loop/phase-01-07-storyboard-drawing-list`
+- Branch: `loop/phase-01-08-manual-production`
 - Phase draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/1
 - LOOP-05 draft pull request: Pending creation
 - Last completed loop: LOOP-07 — Episode 001 Storyboard and Drawing List
-- Current recommended loop: LOOP-08 — Complete Procreate and CapCut production manually
-- Loop branch: `loop/phase-01-07-storyboard-drawing-list`
-- Next loop branch: `loop/phase-01-08-manual-production`
-- Status: LOOP-07 COMPLETE — AWAITING STACKED PR CHAIN
-- Blockers: LOOP-05, LOOP-06, and LOOP-07 must be merged in order before LOOP-08 begins.
-- Workflow exception: At the human's explicit direction, LOOP-07 continues the stacked branch chain from approved LOOP-06 commit `8388333`. The eventual PR chain must preserve merge order: LOOP-05 → LOOP-06 → LOOP-07.
+- Current loop: LOOP-08 — Complete Procreate and CapCut production manually
+- Loop branch: `loop/phase-01-08-manual-production`
+- Status: ACTIVE — AWAITING HUMAN PRODUCTION
+- Blockers: Human must complete the approved drawings, narration, licensing, CapCut edit, captions, export, and final review. LOOP-05 through LOOP-07 also remain unmerged into the Phase 1 branch.
+- Workflow exception: At the human's explicit direction, LOOP-08 continues the stacked branch chain from approved LOOP-07 commit `e4bbe34`. Preserve merge order: LOOP-05 → LOOP-06 → LOOP-07 → LOOP-08.
 
 ## LOOP-07 — Episode 001 Storyboard and Drawing List
 

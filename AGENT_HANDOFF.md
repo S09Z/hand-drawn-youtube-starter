@@ -14,7 +14,7 @@ Research → Script → Storyboard → Drawing List → Procreate → CapCut →
 
 - Starter repository created.
 - Current phase: `PHASE-01`.
-- Current branch: `loop/phase-01-07-storyboard-drawing-list`.
+- Current branch: `loop/phase-01-08-manual-production`.
 - Phase draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/1
 - LOOP-05 draft pull request: Pending creation
 - `LOOP-01 — Repository Foundation Review` is complete.
@@ -24,9 +24,8 @@ Research → Script → Storyboard → Drawing List → Procreate → CapCut →
 - `LOOP-05 — Episode 001 Research` is complete with human-approved topic and research pack; Margaret Knight's flat-bottom paper-bag machinery is EP001.
 - `LOOP-06 — Episode 001 Script` is complete with a 507-word human-approved script and full `F01`–`F10` claim mapping.
 - `LOOP-07 — Episode 001 Storyboard and Drawing List` is complete with 15 approved scenes and 15 approved modular assets.
-- Current recommended work: `LOOP-08 — Complete Procreate and CapCut production manually`, but do not begin until LOOP-05, LOOP-06, and LOOP-07 are merged in order and the local Phase 1 branch is updated.
-- Reserved next branch: `loop/phase-01-08-manual-production`.
-- Workflow exception: the human explicitly directed LOOP-07 to continue before the earlier loop branches were merged. This branch starts from approved LOOP-06 commit `8388333`; preserve the merge order LOOP-05 → LOOP-06 → LOOP-07.
+- Active work: `LOOP-08 — Complete Procreate and CapCut production manually`; the production log is initialized and all human production gates remain incomplete.
+- Workflow exception: the human explicitly directed LOOP-08 to continue before the earlier loop branches were merged. This branch starts from approved LOOP-07 commit `e4bbe34`; preserve the merge order LOOP-05 → LOOP-06 → LOOP-07 → LOOP-08.
 - Authoritative current loop and state live in `PROGRESS.md`.
 - Episode templates intentionally retain fill-in placeholders until they are used.
 
