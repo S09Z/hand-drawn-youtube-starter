@@ -14,14 +14,16 @@ Research → Script → Storyboard → Drawing List → Procreate → CapCut →
 
 - Starter repository created.
 - Current phase: `PHASE-01`.
-- Current branch: `phase/01-manual-production-mvp`.
-- Draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/1
+- Current branch: `loop/phase-01-05-episode-research`.
+- Phase draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/1
+- LOOP-05 draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/4
 - `LOOP-01 — Repository Foundation Review` is complete.
 - `LOOP-02 — Complete Channel Bible` is complete.
 - `LOOP-03 — Complete Visual Style` is complete with four approved repository-local references.
 - `LOOP-04 — Production Template Dry Run` is complete using the fictional, non-publishable `DRY-RUN-001` pack.
-- Current recommended work: `LOOP-05 — Select Episode 001 topic and create its research pack`; topic selection requires explicit human approval.
-- Create `loop/phase-01-05-episode-research` from the Phase 1 branch before starting LOOP-05; after verification, push it and open a draft pull request targeting `phase/01-manual-production-mvp`.
+- `LOOP-05 — Episode 001 Research` is complete with human-approved topic and research pack; Margaret Knight's flat-bottom paper-bag machinery is EP001.
+- Current recommended work: `LOOP-06 — Create and approve Episode 001 script`, but do not start it until the LOOP-05 pull request is approved, merged into the Phase 1 branch, and the local phase branch is updated.
+- Reserved next branch: `loop/phase-01-06-episode-script`.
 - Authoritative current loop and state live in `PROGRESS.md`.
 - Episode templates intentionally retain fill-in placeholders until they are used.
 
@@ -31,6 +33,9 @@ Research → Script → Storyboard → Drawing List → Procreate → CapCut →
 - Git ignore checks cover secrets, generated video, and common generated audio formats.
 - No production media, credentials, runtime dependencies, or automation are tracked; four approved visual-reference images are intentionally versioned under `docs/references/`.
 - The production-log and fact-ID conventions passed the fictional dry run; real-episode validation remains pending.
+- Review follow-up: the exact dispute chronology and case-to-patent link remain unresolved; research now restricts scripting to the broad priority outcome and separately verified machine patent.
+- Remote script/storyboard PRs #2 and #3 exist; reconcile their claims and dependencies before continuing later loops.
+- EP001 research contains unique fact IDs F01–F10, separates disputed claims from verified facts, and was approved by the human for script handoff.
 
 ## Working philosophy
 

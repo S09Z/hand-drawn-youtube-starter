@@ -3,13 +3,58 @@
 ## Current state
 
 - Phase: PHASE-01 — Foundation + Manual Production MVP
-- Branch: `phase/01-manual-production-mvp`
-- Draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/1
-- Last completed loop: LOOP-04 — Production Template Dry Run
-- Current recommended loop: LOOP-05 — Select Episode 001 topic and create its research pack
-- Next loop branch: `loop/phase-01-05-episode-research`
-- Status: READY FOR HUMAN TOPIC SELECTION
-- Blockers: Episode 001's real topic requires explicit human approval.
+- Branch: `loop/phase-01-05-episode-research`
+- Phase draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/1
+- LOOP-05 draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/4
+- Last completed loop: LOOP-05 — Episode 001 Research
+- Current recommended loop: LOOP-06 — Create and approve Episode 001 script
+- Loop branch: `loop/phase-01-05-episode-research`
+- Next loop branch: `loop/phase-01-06-episode-script`
+- Status: LOOP-05 COMPLETE — AWAITING LOOP PR MERGE
+- Blockers: LOOP-05 pull request approval and merge remain outstanding. Do not start LOOP-06 until the approved LOOP-05 pull request is merged and the phase branch is updated.
+
+## LOOP-05 — Episode 001 Research
+
+### Goal
+
+Select a human-approved Episode 001 topic and create a sourced research pack that can hand verified claims into scripting.
+
+### Changes and decisions
+
+- The human approved Margaret Knight and her flat-bottom paper-bag machinery as the Episode 001 topic.
+- `episodes/EP001/research.md` records ten stable facts (`F01`–`F10`), seven authoritative or primary sources, uncertainty, misconceptions, visual notes, research gaps, and a recommended story focus.
+- The research distinguishes Knight's documented machinery from the overbroad claim that she invented all paper bags.
+- The Annan conflict is framed as a patent-priority dispute; the script must not turn the priority ruling into an unsupported formal finding of theft.
+- Exact invention and patent totals remain generalized because reputable institutional summaries differ.
+- The human approved the research pack as sufficient to proceed to scripting.
+
+### Verification completed
+
+- All ten fact IDs use the episode-local `F` plus two digits convention and are unique.
+- Primary patent records support the 1871 and 1879 machine claims; Smithsonian and National Archives sources support context and chronology.
+- Uncertain claims are separated from verified facts and include explicit script handling.
+- EP001 contains only its README and the research artifact; no LOOP-06 script or later artifact was created.
+- No generated media, dependencies, automation, credentials, or publishing actions were introduced.
+- Placeholder scan for the EP001 folder and `git diff --check` pass.
+
+### Review follow-up — 2026-09-23
+
+- Compared the newsletter with primary patents 109,224 and 116,842; they describe different inventions. The case-to-patent connection remains unresolved.
+- Narrowed F05, marked the exact dispute chronology as unresolved, and prohibited an unsupported connection between the ruling and the 1871 grant. A script can proceed after merge using the documented restrictions.
+- Updated README to point to this authoritative state instead of the completed LOOP-02.
+- Remote inspection found existing script and storyboard PRs (#2 and #3). They were not reviewed or changed in this LOOP-05 follow-up; reconcile their research claims and branch dependencies before continuing later-loop work.
+
+### Known issues
+
+- Exact dispute dates and the connection to a numbered patent require reconciliation against the underlying case files.
+
+- Any direct quotation or close paraphrase from the interference proceeding requires inspection of the digitized case file.
+- Image licensing and attribution must be checked per asset during later production work.
+- The precise patent total should remain “more than twenty” unless a complete patent search is performed.
+
+### Exact next action
+
+After the LOOP-05 draft pull request is approved and merged into `phase/01-manual-production-mvp`, update the local phase branch. Then create `loop/phase-01-06-episode-script` and begin LOOP-06; do not start it beforehand.
 
 ## LOOP-04 — Production Template Dry Run
 
