@@ -5,13 +5,13 @@
 - Phase: PHASE-01 — Foundation + Manual Production MVP
 - Branch: `loop/phase-01-05-episode-research`
 - Phase draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/1
-- LOOP-05 draft pull request: Pending creation
+- LOOP-05 draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/4
 - Last completed loop: LOOP-05 — Episode 001 Research
 - Current recommended loop: LOOP-06 — Create and approve Episode 001 script
 - Loop branch: `loop/phase-01-05-episode-research`
 - Next loop branch: `loop/phase-01-06-episode-script`
 - Status: LOOP-05 COMPLETE — AWAITING LOOP PR MERGE
-- Blockers: LOOP-05 pull request creation, approval, and merge remain outstanding. Do not start LOOP-06 until the approved LOOP-05 pull request is merged and the phase branch is updated.
+- Blockers: LOOP-05 pull request approval and merge remain outstanding. Do not start LOOP-06 until the approved LOOP-05 pull request is merged and the phase branch is updated.
 
 ## LOOP-05 — Episode 001 Research
 

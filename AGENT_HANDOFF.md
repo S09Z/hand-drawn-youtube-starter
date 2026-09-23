@@ -16,7 +16,7 @@ Research → Script → Storyboard → Drawing List → Procreate → CapCut →
 - Current phase: `PHASE-01`.
 - Current branch: `loop/phase-01-05-episode-research`.
 - Phase draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/1
-- LOOP-05 draft pull request: Pending creation
+- LOOP-05 draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/4
 - `LOOP-01 — Repository Foundation Review` is complete.
 - `LOOP-02 — Complete Channel Bible` is complete.
 - `LOOP-03 — Complete Visual Style` is complete with four approved repository-local references.
