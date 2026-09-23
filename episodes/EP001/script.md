@@ -2,7 +2,7 @@
 
 Target duration: 3.5–4.5 minutes
 Target word count: 500–600 narrated words
-Status: Approved
+Status: Revised after research review; renewed human approval pending
 
 ## Hook (0:00–0:15)
 
@@ -28,17 +28,17 @@ Visual intent: Paper model → wood model → working machine; then a playful le
 
 ### Beat 2 — Proving priority (1:40–2:35)
 
-> When Knight applied for a patent in 1870, she encountered overlapping claims associated with machinist Charles Annan, who had access to the shop where her model was developed. Knight challenged those claims through a Patent Office proceeding designed to determine who had the earlier invention.
+> Institutional accounts describe a dispute between Knight and machinist Charles Annan, who had access to the shop where her model was developed. Knight challenged those claims through a Patent Office proceeding designed to determine who had the earlier invention.
 >
-> She arrived with evidence: witness testimony, an early drawing, wooden prototype parts, photographs, and bags produced while she developed the machine. Annan challenged her priority and her technical ability. The Patent Office decided in Knight’s favor in June 1870.
+> She arrived with evidence: witness testimony, an early drawing, wooden prototype parts, photographs, and bags produced while she developed the machine. Annan challenged her priority and her technical ability. Those accounts report that the Patent Office decided in Knight’s favor.
 >
-> This episode is often retold as a dramatic theft case. The surviving record supports a more precise—and still remarkable—version: Knight faced competing claims and proved that her work came first.
+> This episode is often retold as a dramatic theft case. The institutional accounts support a more precise—and still remarkable—version: Knight faced competing claims and proved that her work came first.
 
 Visual intent: Evidence objects stack on Knight’s side of a balance; use a Patent Office desk, not a courtroom; emphasize “priority proved” rather than “theft proven.”
 
 ### Beat 3 — From patent to production (2:35–3:25)
 
-> In July 1871, Knight received U.S. Patent 116,842 for her paper-bag machine. Its drawings show the coordinated steps needed to form what the patent called a flat or “satchel-bottom” bag. She later patented an improved version in 1879, connected with the Eastern Paper Bag Company.
+> Separately, the patent record confirms that in July 1871, Knight received U.S. Patent 116,842 for her paper-bag machine. Its drawings show the coordinated steps needed to form what the patent called a flat or “satchel-bottom” bag. She later patented an improved version in 1879, connected with the Eastern Paper Bag Company.
 >
 > Knight kept inventing. Across her career, she received more than twenty patents involving paper bags, shoe manufacturing, and engines. She was not simply a person with one lucky idea; she was a working inventor who kept moving from one mechanical problem to the next.
 
@@ -73,9 +73,9 @@ Creative comparisons and transitions are intentionally omitted from this table.
 | Setup: earlier bags existed and flat-bottom bags required hand production | F03 |
 | Beat 1: paper and wooden models, two-year development, and working patent model | F04 |
 | Beat 1: machine fed, cut, folded, pasted, and delivered bags | F07 |
-| Beat 2: 1870 application, overlapping Annan claims, and favorable priority decision | F05 |
+| Beat 2: institutional accounts of the Annan dispute and favorable priority outcome | F05 |
 | Beat 2: evidence submitted and challenges to Knight's priority and ability | F06 |
-| Beat 2: the record establishes priority rather than a formal theft finding | F05, F06 |
+| Beat 2: institutional summaries describe priority rather than a formal theft finding | F05, F06 |
 | Beat 3: Patent 116,842 issued in July 1871 and described flat or satchel-bottom bags | F07 |
 | Beat 3: improved 1879 patent and Eastern Paper Bag Company connection | F08 |
 | Beat 3: more than twenty patents across several industries | F09 |
@@ -86,4 +86,4 @@ Creative comparisons and transitions are intentionally omitted from this table.
 
 - [x] Voice/tone approved
 - [x] Length approved
-- [x] Final script approved
+- [ ] Revised final script approved (earlier wording was approved before the research correction)

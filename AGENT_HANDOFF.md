@@ -12,22 +12,17 @@ Research → Script → Storyboard → Drawing List → Procreate → CapCut →
 
 ## Current state
 
-- Starter repository created.
-- Current phase: `PHASE-01`.
-- Current branch: `loop/phase-01-06-episode-script`.
+- Phase: PHASE-01 — Foundation + Manual Production MVP
+- Branch: `loop/phase-01-06-episode-script`
 - Phase draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/1
-- LOOP-05 draft pull request: Pending creation
-- `LOOP-01 — Repository Foundation Review` is complete.
-- `LOOP-02 — Complete Channel Bible` is complete.
-- `LOOP-03 — Complete Visual Style` is complete with four approved repository-local references.
-- `LOOP-04 — Production Template Dry Run` is complete using the fictional, non-publishable `DRY-RUN-001` pack.
-- `LOOP-05 — Episode 001 Research` is complete with human-approved topic and research pack; Margaret Knight's flat-bottom paper-bag machinery is EP001.
-- `LOOP-06 — Episode 001 Script` is complete with a 507-word human-approved script and full `F01`–`F10` claim mapping.
-- Current recommended work: `LOOP-07 — Create storyboard and drawing list; check asset reuse`, but do not begin until LOOP-05 and LOOP-06 are merged in order and the local Phase 1 branch is updated.
-- Reserved next branch: `loop/phase-01-07-storyboard-drawing-list`.
-- Workflow exception: the human explicitly insisted that LOOP-06 continue before LOOP-05 was merged, so this branch starts from completed LOOP-05 commit `4b67df1`. Preserve the stacked dependency when opening or retargeting pull requests.
-- Authoritative current loop and state live in `PROGRESS.md`.
-- Episode templates intentionally retain fill-in placeholders until they are used.
+- LOOP-05 pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/4 — merged
+- Last completed loop: LOOP-05 — Episode 001 Research
+- Current loop: LOOP-06 — Script revision review
+- Script pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/2 (targets the Phase 1 branch)
+- Status: Research corrections integrated; revised script requires renewed human approval.
+- Existing LOOP-07 storyboard PR #3 depends on PR #2 and must carry the same research restrictions.
+- Next action: review revised script and storyboard, then merge the dependent PRs in order before production.
+- Earlier completion and approval records below describe the versions before the 2026-09-23 correction.
 
 ## Latest verification
 
@@ -35,6 +30,8 @@ Research → Script → Storyboard → Drawing List → Procreate → CapCut →
 - Git ignore checks cover secrets, generated video, and common generated audio formats.
 - No production media, credentials, runtime dependencies, or automation are tracked; four approved visual-reference images are intentionally versioned under `docs/references/`.
 - The production-log and fact-ID conventions passed the fictional dry run; real-episode validation remains pending.
+- Review follow-up: the exact dispute chronology and case-to-patent link remain unresolved; research now restricts scripting to the broad priority outcome and separately verified machine patent.
+- Remote script/storyboard PRs #2 and #3 exist; reconcile their claims and dependencies before continuing later loops.
 - EP001 research contains unique fact IDs F01–F10, separates disputed claims from verified facts, and was approved by the human for script handoff.
 - EP001 script contains 507 narrated words, preserves the research cautions, maps all factual claims to F01–F10, and has human approval for voice, length, and final wording.
 

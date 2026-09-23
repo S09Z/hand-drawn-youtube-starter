@@ -5,14 +5,20 @@
 - Phase: PHASE-01 — Foundation + Manual Production MVP
 - Branch: `loop/phase-01-06-episode-script`
 - Phase draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/1
-- LOOP-05 draft pull request: Pending creation
-- Last completed loop: LOOP-06 — Episode 001 Script
-- Current recommended loop: LOOP-07 — Create storyboard and drawing list; check asset reuse
-- Loop branch: `loop/phase-01-06-episode-script`
-- Next loop branch: `loop/phase-01-07-storyboard-drawing-list`
-- Status: LOOP-06 COMPLETE — AWAITING STACKED PR CHAIN
-- Blockers: LOOP-05 and LOOP-06 must be merged in order before LOOP-07 begins.
-- Workflow exception: At the human's explicit insistence, LOOP-06 was branched from completed LOOP-05 commit `4b67df1` before LOOP-05 was merged into the phase branch. The eventual PR chain must preserve that dependency.
+- LOOP-05 pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/4 — merged
+- Last completed loop: LOOP-05 — Episode 001 Research
+- Current loop: LOOP-06 — Script revision review
+- Script pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/2 (targets the Phase 1 branch)
+- Status: Research corrections integrated; revised script requires renewed human approval.
+- Existing LOOP-07 storyboard PR #3 depends on PR #2 and must carry the same research restrictions.
+- Next action: review revised script and storyboard, then merge the dependent PRs in order before production.
+- Earlier completion and approval records below describe the versions before the 2026-09-23 correction.
+
+## Review follow-up — 2026-09-23
+
+- Merged research PR #4 into Phase 1 and integrated it into the existing script branch.
+- Removed exact dispute dates and claims of direct case-file inspection; separated the verified 1871 grant from the dispute outcome.
+- Revised narration has 501 whitespace-delimited words; claim IDs remain F01–F10. Renewed final-script approval is pending.
 
 ## LOOP-06 — Episode 001 Script
 
@@ -56,7 +62,7 @@ Select a human-approved Episode 001 topic and create a sourced research pack tha
 ### Changes and decisions
 
 - The human approved Margaret Knight and her flat-bottom paper-bag machinery as the Episode 001 topic.
-- `episodes/EP001/research.md` records ten stable facts (`F01`–`F10`), six authoritative or primary sources, uncertainty, misconceptions, visual notes, research gaps, and a recommended story focus.
+- `episodes/EP001/research.md` records ten stable facts (`F01`–`F10`), seven authoritative or primary sources, uncertainty, misconceptions, visual notes, research gaps, and a recommended story focus.
 - The research distinguishes Knight's documented machinery from the overbroad claim that she invented all paper bags.
 - The Annan conflict is framed as a patent-priority dispute; the script must not turn the priority ruling into an unsupported formal finding of theft.
 - Exact invention and patent totals remain generalized because reputable institutional summaries differ.
@@ -71,7 +77,16 @@ Select a human-approved Episode 001 topic and create a sourced research pack tha
 - No generated media, dependencies, automation, credentials, or publishing actions were introduced.
 - Placeholder scan for the EP001 folder and `git diff --check` pass.
 
+### Review follow-up — 2026-09-23
+
+- Compared the newsletter with primary patents 109,224 and 116,842; they describe different inventions. The case-to-patent connection remains unresolved.
+- Narrowed F05, marked the exact dispute chronology as unresolved, and prohibited an unsupported connection between the ruling and the 1871 grant. A script can proceed after merge using the documented restrictions.
+- Updated README to point to this authoritative state instead of the completed LOOP-02.
+- Remote inspection found existing script and storyboard PRs (#2 and #3). They were not reviewed or changed in this LOOP-05 follow-up; reconcile their research claims and branch dependencies before continuing later-loop work.
+
 ### Known issues
+
+- Exact dispute dates and the connection to a numbered patent require reconciliation against the underlying case files.
 
 - Any direct quotation or close paraphrase from the interference proceeding requires inspection of the digitized case file.
 - Image licensing and attribution must be checked per asset during later production work.
