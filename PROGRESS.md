@@ -11,7 +11,7 @@
 - Loop branch: `loop/phase-01-05-episode-research`
 - Next loop branch: `loop/phase-01-06-episode-script`
 - Status: LOOP-05 COMPLETE — AWAITING LOOP PR MERGE
-- Blockers: None. Do not start LOOP-06 until the approved LOOP-05 pull request is merged and the phase branch is updated.
+- Blockers: LOOP-05 pull request creation, approval, and merge remain outstanding. Do not start LOOP-06 until the approved LOOP-05 pull request is merged and the phase branch is updated.
 
 ## LOOP-05 — Episode 001 Research
 
@@ -22,7 +22,7 @@ Select a human-approved Episode 001 topic and create a sourced research pack tha
 ### Changes and decisions
 
 - The human approved Margaret Knight and her flat-bottom paper-bag machinery as the Episode 001 topic.
-- `episodes/EP001/research.md` records ten stable facts (`F01`–`F10`), six authoritative or primary sources, uncertainty, misconceptions, visual notes, research gaps, and a recommended story focus.
+- `episodes/EP001/research.md` records ten stable facts (`F01`–`F10`), seven authoritative or primary sources, uncertainty, misconceptions, visual notes, research gaps, and a recommended story focus.
 - The research distinguishes Knight's documented machinery from the overbroad claim that she invented all paper bags.
 - The Annan conflict is framed as a patent-priority dispute; the script must not turn the priority ruling into an unsupported formal finding of theft.
 - Exact invention and patent totals remain generalized because reputable institutional summaries differ.
@@ -37,7 +37,16 @@ Select a human-approved Episode 001 topic and create a sourced research pack tha
 - No generated media, dependencies, automation, credentials, or publishing actions were introduced.
 - Placeholder scan for the EP001 folder and `git diff --check` pass.
 
+### Review follow-up — 2026-09-23
+
+- Compared the newsletter with primary patents 109,224 and 116,842; they describe different inventions. The case-to-patent connection remains unresolved.
+- Narrowed F05, marked the exact dispute chronology as unresolved, and prohibited an unsupported connection between the ruling and the 1871 grant. A script can proceed after merge using the documented restrictions.
+- Updated README to point to this authoritative state instead of the completed LOOP-02.
+- Remote inspection found existing script and storyboard PRs (#2 and #3). They were not reviewed or changed in this LOOP-05 follow-up; reconcile their research claims and branch dependencies before continuing later-loop work.
+
 ### Known issues
+
+- Exact dispute dates and the connection to a numbered patent require reconciliation against the underlying case files.
 
 - Any direct quotation or close paraphrase from the interference proceeding requires inspection of the digitized case file.
 - Image licensing and attribution must be checked per asset during later production work.

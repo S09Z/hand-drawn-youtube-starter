@@ -33,6 +33,8 @@ Research → Script → Storyboard → Drawing List → Procreate → CapCut →
 - Git ignore checks cover secrets, generated video, and common generated audio formats.
 - No production media, credentials, runtime dependencies, or automation are tracked; four approved visual-reference images are intentionally versioned under `docs/references/`.
 - The production-log and fact-ID conventions passed the fictional dry run; real-episode validation remains pending.
+- Review follow-up: the exact dispute chronology and case-to-patent link remain unresolved; research now restricts scripting to the broad priority outcome and separately verified machine patent.
+- Remote script/storyboard PRs #2 and #3 exist; reconcile their claims and dependencies before continuing later loops.
 - EP001 research contains unique fact IDs F01–F10, separates disputed claims from verified facts, and was approved by the human for script handoff.
 
 ## Working philosophy
