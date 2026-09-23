@@ -3,11 +3,11 @@
 ## Current state
 
 - Phase: PHASE-01 — Foundation + Manual Production MVP
-- Branch: `loop/phase-01-06-episode-script`
+- Branch: `loop/phase-01-07-storyboard-drawing-list`
 - Phase draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/1
 - LOOP-05 pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/4 — merged
 - Last completed loop: LOOP-05 — Episode 001 Research
-- Current loop: LOOP-06 — Script revision review
+- Current loop: LOOP-07 — Storyboard reconciliation; dependent on revised LOOP-06 approval
 - Script pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/2 (targets the Phase 1 branch)
 - Status: Research corrections integrated; revised script requires renewed human approval.
 - Existing LOOP-07 storyboard PR #3 depends on PR #2 and must carry the same research restrictions.
@@ -16,9 +16,47 @@
 
 ## Review follow-up — 2026-09-23
 
+- Propagated the corrected script and research to PR #3; removed dated claims props and the 1871 patent card from the dispute scene.
+- Revised storyboard and drawing-list approvals are pending. PR #3 remains stacked on PR #2.
+
+
 - Merged research PR #4 into Phase 1 and integrated it into the existing script branch.
 - Removed exact dispute dates and claims of direct case-file inspection; separated the verified 1871 grant from the dispute outcome.
 - Revised narration has 501 whitespace-delimited words; claim IDs remain F01–F10. Renewed final-script approval is pending.
+
+## LOOP-07 — Episode 001 Storyboard and Drawing List
+
+### Goal
+
+Translate the approved script into a production-ready visual sequence and a bounded drawing list that checks reusable assets before proposing new work.
+
+### Changes and decisions
+
+- `episodes/EP001/storyboard.md` maps the full 4:10 script into 15 timed scenes with visual action, short on-screen text, and transitions.
+- `episodes/EP001/drawing-list.md` records that the production asset folders contain only placeholders; style-reference images are not treated as reusable production art.
+- The drawing scope is capped at 15 new modular assets, with no optional decorative assets approved.
+- Margaret Knight, the mascot, the bag set, the machine, evidence objects, and locations use layered variants instead of separate redraws.
+- The Annan sequence uses a neutral Patent Office visual and “Priority proved” language rather than villain styling or a fictional courtroom.
+- The human approved both the storyboard and drawing list before production.
+
+### Verification completed
+
+- Fifteen storyboard scenes cover every approved script section from 0:00 through 4:10.
+- On-screen labels remain short and mobile-readable; diagrams use compact labels and left-to-right flow.
+- Exactly 15 new assets are proposed, meeting the template production limit.
+- The asset library search found only `.gitkeep` placeholders; no reusable production drawing was overlooked.
+- EP001 contains research, script, storyboard, and drawing list only; no Procreate, CapCut, audio, export, or production-log artifact was created.
+- `git diff --check` passes.
+
+### Known issues
+
+- Actual narration timing must be checked during manual recording and editing.
+- Image licensing and attribution must be confirmed before any source image is used in production.
+- The stacked branch dependency must be resolved in order before beginning LOOP-08.
+
+### Exact next action
+
+Merge LOOP-05, LOOP-06, and LOOP-07 in order, then update the local Phase 1 branch. Create `loop/phase-01-08-manual-production` and begin LOOP-08 only after those merges; do not create production media beforehand.
 
 ## LOOP-06 — Episode 001 Script
 

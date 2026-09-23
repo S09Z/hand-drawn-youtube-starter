@@ -13,11 +13,11 @@ Research → Script → Storyboard → Drawing List → Procreate → CapCut →
 ## Current state
 
 - Phase: PHASE-01 — Foundation + Manual Production MVP
-- Branch: `loop/phase-01-06-episode-script`
+- Branch: `loop/phase-01-07-storyboard-drawing-list`
 - Phase draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/1
 - LOOP-05 pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/4 — merged
 - Last completed loop: LOOP-05 — Episode 001 Research
-- Current loop: LOOP-06 — Script revision review
+- Current loop: LOOP-07 — Storyboard reconciliation; dependent on revised LOOP-06 approval
 - Script pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/2 (targets the Phase 1 branch)
 - Status: Research corrections integrated; revised script requires renewed human approval.
 - Existing LOOP-07 storyboard PR #3 depends on PR #2 and must carry the same research restrictions.
