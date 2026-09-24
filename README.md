@@ -16,7 +16,7 @@ AI prepares and checks information. The human owns creative direction, drawing, 
 4. Plan and complete one small loop at a time.
 5. Verify, review, and record each loop before starting another.
 
-The current recommended loop is `LOOP-02 — Complete Channel Bible`.
+See [PROGRESS.md](PROGRESS.md) for the authoritative current loop, review status, and next action.
 
 ## Main folders
 

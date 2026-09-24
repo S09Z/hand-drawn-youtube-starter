@@ -11,3 +11,7 @@
 - [ ] Text is readable on mobile.
 - [ ] Scene complexity fits the production schedule.
 - [ ] New asset proposals have been checked against `assets/`.
+
+## Human approval
+
+- [ ] Storyboard approved before the drawing list and production begin

@@ -1,6 +1,8 @@
-# EP001 — Unselected Topic
+# EP001 — Margaret Knight and the Flat-Bottom Paper Bag
 
-Status: Not started
+Status: Research approved; ready for LOOP-06 after LOOP-05 merge
+
+Approved topic: Margaret Knight's paper-bag machinery, the patent-priority dispute surrounding her work, and how a factory worker helped mechanize an everyday object.
 
 Copy the templates into this folder as the episode advances:
 
