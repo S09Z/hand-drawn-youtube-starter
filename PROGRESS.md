@@ -3,15 +3,55 @@
 ## Current state
 
 - Phase: PHASE-01 — Foundation + Manual Production MVP
-- Branch: `loop/phase-01-05-episode-research`
+- Branch: `loop/phase-01-06-episode-script`
 - Phase draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/1
-- LOOP-05 draft pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/4
+- LOOP-05 pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/4 — merged
 - Last completed loop: LOOP-05 — Episode 001 Research
-- Current recommended loop: LOOP-06 — Create and approve Episode 001 script
-- Loop branch: `loop/phase-01-05-episode-research`
-- Next loop branch: `loop/phase-01-06-episode-script`
-- Status: LOOP-05 COMPLETE — AWAITING LOOP PR MERGE
-- Blockers: LOOP-05 pull request approval and merge remain outstanding. Do not start LOOP-06 until the approved LOOP-05 pull request is merged and the phase branch is updated.
+- Current loop: LOOP-06 — Script revision review
+- Script pull request: https://github.com/S09Z/hand-drawn-youtube-starter/pull/2 (targets the Phase 1 branch)
+- Status: Research corrections integrated; revised script requires renewed human approval.
+- Existing LOOP-07 storyboard PR #3 depends on PR #2 and must carry the same research restrictions.
+- Next action: review revised script and storyboard, then merge the dependent PRs in order before production.
+- Earlier completion and approval records below describe the versions before the 2026-09-23 correction.
+
+## Review follow-up — 2026-09-23
+
+- Merged research PR #4 into Phase 1 and integrated it into the existing script branch.
+- Removed exact dispute dates and claims of direct case-file inspection; separated the verified 1871 grant from the dispute outcome.
+- Revised narration has 501 whitespace-delimited words; claim IDs remain F01–F10. Renewed final-script approval is pending.
+
+## LOOP-06 — Episode 001 Script
+
+### Goal
+
+Create and receive human approval for a clear 3–5 minute Margaret Knight script with every factual claim traceable to the approved EP001 research pack.
+
+### Changes and decisions
+
+- `episodes/EP001/script.md` uses a balanced story: familiar object, factory problem, iterative machine, patent-priority dispute, mechanism, and legacy.
+- The 507-word narration targets approximately 3.4–3.9 minutes at 130–150 words per minute.
+- The script says Knight mechanized an important flat-bottom bag form rather than claiming she invented every paper bag.
+- The Annan conflict is accurately framed as a priority proceeding, not a formal finding of theft.
+- The script uses “more than twenty patents” and omits the weakly documented childhood loom story.
+- The human approved voice, length, and final script.
+
+### Verification completed
+
+- Narration contains 507 words, within the approved 500–600 target.
+- Every research ID `F01`–`F10` appears in the claim map; no research fact is left unmapped.
+- Prohibited-overclaim scan found no claim that Knight was the first woman patented, invented all paper bags, or proved theft in court.
+- EP001 contains only `README.md`, `research.md`, and `script.md`; no LOOP-07 artifact was created.
+- No generated media, dependencies, automation, credentials, or publishing actions were introduced.
+- `git diff --check` passes.
+
+### Known issues
+
+- Storyboard timing will need to validate the estimated spoken duration with an actual read-through.
+- The stacked branch dependency must be resolved by merging LOOP-05 before LOOP-06 into the Phase 1 branch.
+
+### Exact next action
+
+Create and manually merge the LOOP-05 draft PR, then merge the LOOP-06 PR. Update the local Phase 1 branch after both merges. Only then create `loop/phase-01-07-storyboard-drawing-list` and begin LOOP-07.
 
 ## LOOP-05 — Episode 001 Research
 
